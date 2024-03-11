@@ -9,3 +9,5 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 > O livro por si só deu à indústria um guia fundamental e duradouro para um dos tópicos mais importantes: Como garantir que todo o software que você produz faça o que foi projetado para fazer?
 >
 
+## Introdução
+
