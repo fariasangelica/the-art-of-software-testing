@@ -59,9 +59,9 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 >
 > - Teste de caixa preta (também conhecido como teste orientado por dados ou teste orientado por entrada/saída). Para usar o método, veja o programa como uma caixa preta. Seu objetivo é ficar completamente despreocupado com o comportamento e estrutura do programa. Em vez disso, concentre-se nas circunstâncias finais em que o programa não se comporta de acordo com as especificações do teste."
 >
-> - Teste de caixa branca(ou orientado por lógica), permite examinar a estrutura interna do programa. Esta estratégia deriva dados de teste de um exame da lógica do programa (e muitas vezes, infezliemente, negligenciando a especificação)
+> - Teste de caixa branca(ou orientado por lógica), permite examinar a estrutura interna do programa. Esta estratégia deriva dados de teste de um exame da lógica do programa (e muitas vezes, infezlimente,negligenciando a especificação)
 >
-> ### Pricípios de teste de software
+> ### Princípios de teste de software
 >
 > Considerações mais importantes em teste de software são questões psicológicas, podemos identificar um conjunto de princípios ou diretrizes vitais dos testes:
 >
@@ -78,4 +78,10 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 > 9 - A probabilidade de existência de mais erros numa seção de um programa é proporcional ao número de erros já encontrados nessa secção.
 > 10 - Testar é uma tarefa extremamente criativa e intelectualmente desafiadora.
 >
-> 
+> ### Resumo
+>
+> - Teste é o processo de execução de um programa com a intenção de encontrar erros.
+> - Os testes são mais bem-sucedidos quando não são realizados pelo(s) desenvolvedor(es).
+> - Um bom caso de teste é aquele que tem alta probabilidade de detectar um erro não descoberto.
+> - Testes bem-sucedidos incluem a definição cuidadosa dos resultados esperados, bem como dos insumos.
+> - Testes bem-sucedidos incluem estudar cuidadosamente os resultados dos testes.
