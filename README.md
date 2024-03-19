@@ -67,7 +67,7 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 >
 > TABELA 2.1: Diretrizes para testes de programas vitais
 >
-> 1 - Uma parte necessária de um caso de teste é uma definição da saída oou resultado esperado.
+> 1 - Uma parte necessária de um caso de teste é uma definição da saída ou resultado esperado.
 > 2 - Um programador deve evitar tentar testar seu próprio programa.
 > 3 - Uma orgaização de programação não deve testar os seus próprios programas.
 > 4 - Qualquer processo de teste deve incluir uma inspeção completa dos resultados de cada teste.
@@ -85,3 +85,33 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 > - Um bom caso de teste é aquele que tem alta probabilidade de detectar um erro não descoberto.
 > - Testes bem-sucedidos incluem a definição cuidadosa dos resultados esperados, bem como dos insumos.
 > - Testes bem-sucedidos incluem estudar cuidadosamente os resultados dos testes.
+>
+> ##Capítulo 3: Inspeções do Programa, Passo a passo, e comentários
+>
+> ### Inspeções e orientações
+>
+> "Os dois principais métodos de teste humano são inspeções de código e
+orientações."
+>
+> " Inspeções e orientações envolvem uma equipe de pessoas lendo ou
+inspecionando visualmente um programa."
+>
+> "Portanto, a maioria dos testes de programas é conduzida por outras pessoas que não o autor, o que
+segue o princípio do teste, afirmando que um indivíduo geralmente é ineficaz ao testar seu próprio programa."
+>
+> ### Inspeções de código
+>
+> "Uma inspeção de código é um conjunto de procedimentos e técnicas de detecção de erros
+para leitura de código de grupo."
+>
+> "O objetivo da inspeção é encontrar erros no programa, melhorando assim a qualidade do trabalho. Por esta
+razão, a maioria das pessoas recomenda que os resultados de uma inspeção sejam uma assunto confidencial, compartilhado apenas entre os participantes."
+>
+> " O processo de inspeção é uma forma de identificar precocemente as secções do programa mais propensas a erros, ajudando a centrar mais atenção nestas secções durante o processos de teste baseados em computador."
+>
+> ### Passo a passo
+>
+> "O passo a passo do código, assim como a inspeção, é um conjunto de procedimentos e técnicas de detecção de erros para leitura de código de grupo. Ele compartilha muito em comum com o processo de inspeção, mas os procedimentos são ligeiramente diferentes, e uma técnica de detecção de erros diferente é empregado."
+>
+> 
+
