@@ -113,5 +113,5 @@ razão, a maioria das pessoas recomenda que os resultados de uma inspeção seja
 >
 > "O passo a passo do código, assim como a inspeção, é um conjunto de procedimentos e técnicas de detecção de erros para leitura de código de grupo. Ele compartilha muito em comum com o processo de inspeção, mas os procedimentos são ligeiramente diferentes, e uma técnica de detecção de erros diferente é empregado."
 >
-> 
+
 
