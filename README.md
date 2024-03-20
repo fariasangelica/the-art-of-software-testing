@@ -67,15 +67,24 @@ Anotações feitas da leitura do livro [_The Art of Software Testing_](https://w
 >
 > TABELA 2.1: Diretrizes para testes de programas vitais
 >
-> 1 - Uma parte necessária de um caso de teste é uma definição da saída ou resultado esperado.
+> 1 - Uma parte necessária de um caso de teste é uma definição da saída oou resultado esperado.
 > 2 - Um programador deve evitar tentar testar seu próprio programa.
+> 
 > 3 - Uma orgaização de programação não deve testar os seus próprios programas.
+> 
 > 4 - Qualquer processo de teste deve incluir uma inspeção completa dos resultados de cada teste.
+> 
 > 5 - Os casos de teste devem ser escritos para condições de entrada inválidas e inesperadas, bem como para aquelas que são válidas e esperadas.
+> 
+> 
 > 6 - Examinar um programa para ver se ele não faz o que deveria é apenas metade da batalha; a otra metade é ver se o programa faz o que não deveria fazer.
+> 
 > 7 - Evite casos de teste descartáveis, a menos que o programa seja realmente descartáveis.
+> 
 > 8 - Não planeje um esforço de teste sob a situação tácita de que nenhum erro será encontrado.
+> 
 > 9 - A probabilidade de existência de mais erros numa seção de um programa é proporcional ao número de erros já encontrados nessa secção.
+> 
 > 10 - Testar é uma tarefa extremamente criativa e intelectualmente desafiadora.
 >
 > ### Resumo
